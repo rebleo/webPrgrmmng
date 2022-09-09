@@ -2,7 +2,11 @@
 
 ##### [Chrome Dev Tools Console Ref](https://developers.google.com/web/tools/chrome-devtools/console/reference)
 
+###### p5.js
+* Documentation: [reference](https://p5js.org/reference/)
 ![theBoxModel](boxModel.png)
+
+##### coding train - [starting w/ p5.js](https://www.youtube.com/watch?v=yPWkPOfnGsw)
 #### [the Box Model](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model)
 
 * [MDN on padding](https://developer.mozilla.org/en-US/docs/Web/CSS/padding)
