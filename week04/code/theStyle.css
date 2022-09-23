@@ -18,6 +18,16 @@ details {
 
 }
 
+#eraserButton {
+    border-radius: 100px;
+    width: 50px;
+    padding: 4vw;
+}
+
+#eraserButton:hover {
+    background-color: pink;
+}
+
 details:hover {
     background-color: yellow;
 }
