@@ -1,0 +1,46 @@
+main {
+    background-color: pink;
+    padding: 4vw;
+    display: flex;
+    flex-direction: column;
+}
+
+p {
+    background-color: blue;
+    border-radius: 100px;;
+    padding: 4vw;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif   ;
+}
+details {
+    font-size: 30px;
+    margin: 5vw;
+    padding: 4vw;
+    background-color: pink;
+
+
+}
+
+#theButtons{
+    display:flex;
+    background-color: pink;
+    justify-content: space-around;
+    border-radius: 100px;
+    padding:2vh;
+
+}
+
+button {
+    border-radius: 100px;
+    border: none;
+    width: 40px;
+    height: 40px;
+    padding: 4vw;
+    background-color: rgba(0,0,0,.25);
+}
+button:hover {
+    background-color: green;
+}
+
+details:hover {
+    background-color: yellow;
+}
