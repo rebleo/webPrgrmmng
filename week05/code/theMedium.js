@@ -1,4 +1,7 @@
 console.log("the message!")
+// if you notice there is another js file
+// being served by the HTML
+console.log(theTxt)
 // objects
 const rainBow = {
    red: 'apple.jpg',
